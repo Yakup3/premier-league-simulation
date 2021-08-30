@@ -18,7 +18,7 @@ async function connect() {
                 channel.sendToQueue('jobs', Buffer.from(JSON.stringify(dict)))
                 console.log(`Job sent successfully ${JSON.stringify(dict)}`);
                 console.log('');
-            }, 800 * i);
+            }, 5000 * i);
         }
 
         fs.readFile('goal_data1.json', 'utf8', (error, data) => {
