@@ -8,4 +8,5 @@ The application reads data from file which contains scores, team names and date 
 
 ## Some photos
 ![](Screenshot/Matches.png)
+
 ![](Screenshot/Standings.png)
