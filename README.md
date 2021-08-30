@@ -1,4 +1,4 @@
-# Premier-league-simulation
+# Premier-league-simulation-app
 
 ## How it works
 Execute the App.js class. Afterwards, index.js and publisher.js classes in ./Backend/Rabbitmq.
